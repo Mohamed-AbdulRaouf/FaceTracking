@@ -41,5 +41,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>UIRequiresFullScreen</key>
+	<true/>
+	<key>NSCameraUsageDescription</key>
+	<string>This app requires a feed from the selfie cam, so it can track your face.</string>
 </dict>
 </plist>
